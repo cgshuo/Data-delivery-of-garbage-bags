@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+<!-- Generated 2017-8-11 10:43:23 by Hibernate Tools 3.5.0.Final -->
+<hibernate-mapping package="com.cgs.weixin.pojo">
+    <class name="Token" table="TOKEN">
+        <id name="id">
+			<generator class="native" />
+		</id>
+		<property name="accessToken" not-null="true" length="150" />
+		<property name="expiresIn" not-null="true" length="10"  />
+
+    </class>
+</hibernate-mapping>

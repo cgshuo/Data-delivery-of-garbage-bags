@@ -1,0 +1,13 @@
+eclipse.preferences.version=1
+encoding//src/service/BagRecord.java=UTF-8
+encoding//src/service/BagsIssuedService.java=UTF-8
+encoding//src/service/BagsIssuedServiceService.java=UTF-8
+encoding//src/service/BagsIssuedServiceServiceLocator.java=UTF-8
+encoding//src/service/BagsIssuedServiceServiceSoapBindingStub.java=UTF-8
+encoding//src/service/Community.java=UTF-8
+encoding//src/service/IdentityVerificationService.java=UTF-8
+encoding//src/service/IdentityVerificationServiceService.java=UTF-8
+encoding//src/service/IdentityVerificationServiceServiceLocator.java=UTF-8
+encoding//src/service/IdentityVerificationServiceServiceSoapBindingStub.java=UTF-8
+encoding//src/service/Property.java=UTF-8
+encoding//src/service/WxPropert.java=UTF-8
